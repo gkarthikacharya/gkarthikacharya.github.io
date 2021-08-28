@@ -1,0 +1,105 @@
+
+<div class="col-sm-6 col-lg-4">
+                    <article class="entity-block entity-hover-shadow text-center entity-preview-show-up">
+                        <div class="entity-preview">
+                            <div class="embed-responsive embed-responsive-4by3"><img class="embed-responsive-item" src="./assets/images/content/720x540/cucumber.jpg" alt=""></div>
+                            <div class="with-back entity-preview-content">
+                                <div class="mx-auto mt-auto mb-4 text-center"><a class="btn-wide mr-2 btn btn-theme" href="shop-sidebar-right.html">View more</a><a class="btn-icon btn btn-theme" href="shop-sidebar-right.html"><i class="fas fa-heart"></i></a></div>
+                            </div>
+                        </div>
+                        <div class="pb-4 entity-content">
+                            <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Cucumber</a></h4>
+                            <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
+                            <!-- <div class="entity-price"><span class="currency">$</span>1.80 <span class="price-unit">/
+                                    kg</span></div> -->
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <article class="entity-block entity-hover-shadow text-center entity-preview-show-up">
+                        <div class="entity-preview">
+                            <div class="embed-responsive embed-responsive-4by3"><img class="embed-responsive-item" src="./assets/images/content/720x540/pepper.jpg" alt=""></div>
+                            <div class="with-back entity-preview-content">
+                                <div class="mx-auto mt-auto mb-4 text-center"><a class="btn-wide mr-2 btn btn-theme" href="shop-sidebar-right.html">buy now</a><a class="btn-icon btn btn-theme" href="shop-sidebar-right.html"><i class="fas fa-heart"></i></a></div>
+                            </div>
+                        </div>
+                        <div class="pb-4 entity-content">
+                            <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Pepper</a></h4>
+                            <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
+                            <!-- <div class="entity-price"><span class="currency">$</span>3.50 <span class="price-unit">/
+                                    kg</span></div> -->
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <article class="entity-block entity-hover-shadow text-center entity-preview-show-up">
+                        <div class="entity-preview">
+                            <div class="embed-responsive embed-responsive-4by3"><img class="embed-responsive-item" src="./assets/images/content/720x540/tomato.jpg" alt=""></div>
+                            <div class="with-back entity-preview-content">
+                                <div class="mx-auto mt-auto mb-4 text-center"><a class="btn-wide mr-2 btn btn-theme" href="shop-sidebar-right.html">buy now</a><a class="btn-icon btn btn-theme" href="shop-sidebar-right.html"><i class="fas fa-heart"></i></a></div>
+                            </div>
+                        </div>
+                        <div class="pb-4 entity-content">
+                            <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Tomato</a></h4>
+                            <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
+                            <!-- <div class="entity-price"><span class="currency">$</span>3.29 <span class="price-unit">/
+                                    kg</span></div> -->
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <article class="entity-block entity-hover-shadow text-center entity-preview-show-up">
+                        <div class="entity-preview">
+                            <div class="embed-responsive embed-responsive-4by3"><img class="embed-responsive-item" src="./assets/images/content/720x540/red-pepper.jpg" alt=""></div>
+                            <div class="with-back entity-preview-content">
+                                <div class="mx-auto mt-auto mb-4 text-center"><a class="btn-wide mr-2 btn btn-theme" href="shop-sidebar-right.html">buy now</a><a class="btn-icon btn btn-theme" href="shop-sidebar-right.html"><i class="fas fa-heart"></i></a></div>
+                            </div>
+                        </div>
+                        <div class="pb-4 entity-content">
+                            <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Red pepper</a></h4>
+                            <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
+                            <!-- <div class="entity-price"><span class="currency">$</span>8.50 <span class="price-unit">/
+                                    kg</span></div> -->
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <article class="entity-block entity-hover-shadow text-center entity-preview-show-up">
+                        <div class="entity-preview">
+                            <div class="embed-responsive embed-responsive-4by3"><img class="embed-responsive-item" src="./assets/images/content/720x540/banana.jpg" alt=""></div>
+                            <div class="with-back entity-preview-content">
+                                <div class="mx-auto mt-auto mb-4 text-center"><a class="btn-wide mr-2 btn btn-theme" href="shop-sidebar-right.html">buy now</a><a class="btn-icon btn btn-theme" href="shop-sidebar-right.html"><i class="fas fa-heart"></i></a></div>
+                            </div>
+                        </div>
+                        <div class="pb-4 entity-content">
+                            <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Banana</a></h4>
+                            <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
+                            <!-- <div class="entity-price"><span class="currency">$</span>3.99 <span class="price-unit">/
+                                    kg</span></div> -->
+                        </div>
+                    </article>
+                </div>
+                <div class="col-sm-6 col-lg-4">
+                    <article class="entity-block entity-hover-shadow text-center entity-preview-show-up">
+                        <div class="entity-preview">
+                            <div class="embed-responsive embed-responsive-4by3"><img class="embed-responsive-item" src="./assets/images/content/720x540/potato.jpg" alt=""></div>
+                            <div class="with-back entity-preview-content">
+                                <div class="mx-auto mt-auto mb-4 text-center"><a class="btn-wide mr-2 btn btn-theme" href="shop-sidebar-right.html">buy now</a><a class="btn-icon btn btn-theme" href="shop-sidebar-right.html"><i class="fas fa-heart"></i></a></div>
+                            </div>
+                        </div>
+                        <div class="pb-4 entity-content">
+                            <h4 class="entity-title"><a class="content-link" href="shop-product-sidebar-right.html">Potato</a></h4>
+                            <p class="entity-text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt</p>
+                            <!-- <div class="entity-price"><span class="currency">$</span>1.80 <span class="price-unit">/
+                                    kg</span></div> -->
+                        </div>
+                    </article>
+                </div>
+
+
+
+
+
+
+
+            
